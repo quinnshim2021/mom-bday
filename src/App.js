@@ -1,6 +1,5 @@
 import './App.css';
 import { pics } from './shared/pics';
-import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
 import {useState} from 'react';
 
 
